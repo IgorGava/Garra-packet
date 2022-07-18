@@ -1,4 +1,4 @@
-# Garra-packet
+# Desconto INSS
 codes in python
 print('Cauculadora de desconto INSS / INSS discount calculator.')
 
